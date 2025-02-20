@@ -9,6 +9,17 @@ This repo contains the assignment and provided resources for Project 2 of the Ap
 ## Description:
 Each group will be assigned one of the subnets from our hypothetical medium-sized tech business.  You can find the image detailing the full logical map of the business on Canvas under the Risk Assessment module.  Your task will be to perform as complete a risk assessment on all assets within that subnet as you can.  You will be expected to go through the process of submitting a report detailing all mitigations you can come up with for each identified threat/vulnerability along with estimates of the cost to implement each.
 
+You can find some resources which may be valuable as reference material for this project here:
+ * https://purplesec.us/resources/cybersecurity-statistics/
+ * https://purplesec.us/breach-report/
+ * https://purplesec.us/wp-content/uploads/2024/08/Vulnerability-Management-Services-By-PurpleSec.pdf
+ * https://ipkeys.com/blog/nist-risk-assessment-report/
+
+And some example risk/vulnerability assessment reports:
+ * https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/privacy-risk-assessment
+ * https://purplesec.us/resources/sample-vulnerability-assessment-report/
+ * https://www.cdse.edu/Portals/124/Documents/jobaids/cyber/Risk-Assessment-Report-Template.pdf
+
 ## Grading Criteria:
 Each group will be expected to complete a full catalogue of assets within their scope, perform valuations of each asset, identify as many threats as possible which may impact each asset, determine the vulnerabilities which may be present, predict likelihood and consequence for each threat, compute risks, and suggest one or more possible mitigations for each risk along with estimates for cost to implement the mitigations.  For specific numbers which you will need to complete things like valuations, frequency estimates, and implementation costs provide me with a list and I will help to generate realistic numbers.
 
